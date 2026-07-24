@@ -166,7 +166,7 @@ npm run dev
 
 Feel free to connect for a deeper technical understanding of the architecture, database design, or SaaS integrations!
 
-* **GitHub**: [@VenkatAsrith](https://github.com/VenkatAsrith)
-* **Repository**: [Smart-Attendance-Remodified](https://github.com/VenkatAsrith/Smart-Attendance-Remodified.git)
+* **GitHub**: [@RajaRajeshwari2609](https://github.com/RajaRajeshwari2609)
+* **Repository**: [Smart-Attendance-Remodified](https://github.com/RajaRajeshwari2609/Smart-Attendance-Remodified.git)
 
 ---
