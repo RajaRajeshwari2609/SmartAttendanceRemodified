@@ -6,6 +6,7 @@ The **Smart Attendance System** is a technology-assisted attendance management s
 
 This project focuses not only on building an attendance application, but on identifying the operational problem, understanding the existing workflow, measuring its impact, and designing an improved process using software automation, rules, AI where appropriate, and human verification.
 
+**Deployment Link**-https://smartattendance2.netlify.app/login
 ---
 
 # Problem
